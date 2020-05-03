@@ -2,8 +2,8 @@ import React from "react";
 
 export default function AboutPage() {
   return (
-    <div class="AboutPage">
-      <h1>This is About Page</h1>
+    <div className="AllPages">
+      <p>This is About Page</p>
     </div>
   );
 }
